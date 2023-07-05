@@ -1,0 +1,1 @@
+swaylock --clock --image .config/assets/lock.jpg --indicator --effect-blur 3x3 --effect-vignette 0.5:0.5 --ring-color 451458 --key-hl-color 692a81 --ring-wrong-color 150f17 --separator-color 451458 --inside-color 150f17

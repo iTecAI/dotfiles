@@ -1,0 +1,2 @@
+exec_always swww init
+exec_always swww img -o DP-3,DP-2,HDMI-A-1 /home/itec/.config/assets/backdrop-animated.gif
